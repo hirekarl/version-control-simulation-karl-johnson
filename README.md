@@ -1,4 +1,4 @@
-#  Version Control Simulation
+#  SBA 1: Version Control Simulation
 
 [Karl Johnson](https://www.github.com/hirekarl)  
 PS 2025-RTT-30
