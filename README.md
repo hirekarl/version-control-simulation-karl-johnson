@@ -1,7 +1,7 @@
 #  SBA 1: Version Control Simulation
 
 [Karl Johnson](https://www.github.com/hirekarl)  
-PS 2025-RTT-30
+PS 2025-RTT-30  
 <date datetime="2025-06-04">2025-06-04</date>  
 
 <img src="img/git.jpg" alt="A Git logo on a sticker, being held by a person between their thumb and forefinger over a blurry background.">
